@@ -1,2 +1,6 @@
 one
-one
+=======
+zzz
+hi
+
+>>>>>>> user2
